@@ -2,19 +2,19 @@
     {
         "title":"คอมพิวเตอร​์คืออะไร",
         "subtitle":"คอมพิวเตอร์คืออุปกรณ์สำหรับการคำนวนและทำงานอื่นๆ",
-        "image_url":"https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg",
+        "image_url":"https://raw.githubusercontent.com/boonak/BasicAPI/main/coding.jpg",
         "detail":"เป็นเครื่องจักรแบบสั่งการได้ที่ออกแบบมาเพื่อดำเนินการกับลำดับตัวดำเนินการทางตรรกศาสตร์หรือคณิตศาสตร์"
     },
     {
         "title":"Flutter คืออะไร?",
         "subtitle":"โปรแกรมทำแอพจาก google",
-        "image_url":"https://cdn.pixabay.com/photo/2015/01/08/18/25/desk-593327_1280.jpghttps://cdn.pixabay.com/photo/2015/01/08/18/25/desk-593327_1280.jpg",
+        "image_url":"https://raw.githubusercontent.com/boonak/BasicAPI/main/desk.jpg",
         "detail":"เป็นเครื่องจักรแบบสั่งการได้ที่ออกแบบมาเพื่อดำเนินการกับลำดับตัวดำเนินการทางตรรกศาสตร์หรือคณิตศาสตร์"
     },
     {
         "title":"python คืออะไร?",
         "subtitle":"โปรแกรมภาษาประเภทนึง",
-        "image_url":"https://cdn.pixabay.com/photo/2015/01/08/18/25/desk-593327_1280.jpghttps://cdn.pixabay.com/photo/2015/01/08/18/25/desk-593327_1280.jpg",
+        "image_url":"https://raw.githubusercontent.com/boonak/BasicAPI/main/screen.jpg",
         "detail":"เป็นเครื่องจักรแบบสั่งการได้ที่ออกแบบมาเพื่อดำเนินการกับลำดับตัวดำเนินการทางตรรกศาสตร์หรือคณิตศาสตร์."
     }
 ]
